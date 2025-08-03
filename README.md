@@ -114,10 +114,10 @@ Create another file named .env inside the server folder and add the following co
 
 
 ```env
-MONGODB_URL=mongodb+srv://abejrijwi:career-123456@cluster0.ttay5.mongodb.net/Dashboard?retryWrites=true&w=majority
-CLOUDINARY_CLOUD_NAME=dlznhtrnb
-CLOUDINARY_API_KEY=766886653366666
-CLOUDINARY_API_SECRET=hsckVRYQpKPtZ5OlNHi268ncS8g
+MONGODB_URL=
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
 ```
 
 Replace the placeholder values with your actual [MongoDB Atlas](https://cloud.mongodb.com/) and [Cloudinary](https://console.cloudinary.com/) credentials.
