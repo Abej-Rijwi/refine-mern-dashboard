@@ -32,7 +32,7 @@ const Form = ({ type, register, handleSubmit, handleImageChange, formLoading, on
             required
             placeholder="Write description of property"
             color="info"
-            style={{ width: '100%', background: 'transparent', fontSize: '16px', borderColor: 'rgba(0, 0, 0, 0.23)', borderRadius: 6, padding: 10, color: '#919191' }}
+            style={{ width: '100%', background: 'transparent', fontSize: '16px', borderColor: 'rgba(0, 0, 0, 0.23)', borderRadius: 6, padding: 10, color: '#11142D' }}
             {...register('description', { required: true })}
           />
         </FormControl>
